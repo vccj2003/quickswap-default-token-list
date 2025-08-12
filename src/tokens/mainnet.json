@@ -1093,5 +1093,15 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/vIX6pTjh.jpg",
     "trending": false
-  }
-]
+  },
+{
+  {
+    "name": "Zelatha",
+    "address": "0xBC30e65eBD4F7560967080C461f8AFf96307dAe3",
+    "symbol": "ZLH",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://i.imgur.com/3Ae9pSp.png",
+    "trending": false
+}
+
